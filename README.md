@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rohan.
 - 👀 I’m interested in full stack web development.
-- 🌱 I’m currently working as a Front end Software Engineer (ReactJS).
+- 🌱 I’m currently working as a Frontend Software Engineer (ReactJS).
 - 📫 How to reach me - https://www.linkedin.com/in/rohanmaharjan27/
 
 <!---
