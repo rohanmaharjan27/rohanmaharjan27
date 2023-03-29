@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @rohanmaharjan27
-- 👀 I’m interested in web and mobile development.
-- 🌱 I’m currently working as a frontend web developer (ReactJS).
-- 💞️ I’m looking to collaborate on web projects.
+- 👋 Hi, I’m Rohan.
+- 👀 I’m interested in full stack web development.
+- 🌱 I’m currently working as a Front end Software Engineer (ReactJS).
 - 📫 How to reach me - https://www.linkedin.com/in/rohanmaharjan27/
 
 <!---
